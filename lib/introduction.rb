@@ -1,5 +1,5 @@
 # lib/introduction.rb
 
-def introduction (Kelvin)
+def introduction (name)
   puts "Hi, my  name is #{name}."
 end 
