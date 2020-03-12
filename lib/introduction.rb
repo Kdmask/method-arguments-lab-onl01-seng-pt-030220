@@ -1,4 +1,4 @@
 # lib/introduction.rb
 
-def introduction (Kelvin)
+def introduction (name)
 end 
